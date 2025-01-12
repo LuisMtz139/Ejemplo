@@ -1,13 +1,13 @@
 nuevo = {
-    'a': 100,   # Cambiado
-    'li': 200,  # Cambiado
-    'c': 300,   # Cambiado
-    'd': 400,   # Cambiado
-    'ño': 500,  # Cambiado
-    'f': 600,   # Cambiado
+    'a': 12,   
+    'li': 0,  
+    'c': 10000,
+    'd': 0,
+    'ño': 17,
+    'f': 0,
 }
 
-"I love dogs!"  # Mensaje diferente
+"i like really  pets, i lerned english whit dualingo" 
 
 def nuevo1(nuevo):
     for data1 in nuevo:
